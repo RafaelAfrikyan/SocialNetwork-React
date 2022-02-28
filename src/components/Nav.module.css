@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.nav > ul {
+  background-color: #4267B2;
+  list-style-type: none;
+  color: aliceblue;
+  padding: 10px 15px 250px 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+
